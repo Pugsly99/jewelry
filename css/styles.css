@@ -1,0 +1,80 @@
+.Jumbotron {
+  text-align: center;
+  background-color:rgb(0, 0, 0);
+  margin: 30px;
+  color: aliceblue;
+}
+
+.picfit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 320px;
+  height: 300px;
+  padding: 4px;
+}
+
+.picfit2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 150px;
+  height: 150px;
+}
+
+.centertext {
+  text-align: center;
+  
+}
+
+.textdark {
+  color: black;
+}
+
+em {
+  font-style: italic;
+  color: aquamarine;
+}
+
+.card {
+  margin: 10px;
+  border: 2px silver;
+  background-color: silver;
+}
+
+.border {
+  border: 1px rgb(207, 12, 12);
+}
+
+img {
+  block-size: 500px;
+  margin-bottom: 30pxs;
+}
+
+button {
+  margin: 30px;
+}
+
+.listspace{
+  margin-bottom: 15px;
+}
+
+.textimportant {
+  color: gold;
+  font-style: italic;
+}
+
+.ghost {
+  font-style: italic;
+  color: rgba(245, 245, 245, 0.904);
+}
+
+.card-body {
+  margin: ;
+}
+
+.form-control {
+  margin-bottom: 30px;
+}
